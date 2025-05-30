@@ -29,10 +29,10 @@ const contactItems = [
   {
     icon: "fas fa-globe",
     title: "Website",
-    value: "https://muhammad-mustafa.vercel.app/",
+    value: "https://muhammad-mustafa-mu.vercel.app/",
     color: "primary",
     delay: 0.4,
-    link: "https://muhammad-mustafa.vercel.app/",
+    link: "https://muhammad-mustafa-mu.vercel.app/",
   },
 ];
 
@@ -54,7 +54,7 @@ const socialLinks = [
 
   {
     icon: "fab fa-dribbble",
-    url: "https://muhammad-mustafa.vercel.app/",
+    url: "https://muhammad-mustafa-mu.vercel.app/",
     color: "pink-500",
     hoverColor: "pink-500",
     delay: 0.4,
